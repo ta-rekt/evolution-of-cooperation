@@ -1,0 +1,7 @@
+name = "Evogames"
+uuid = "1b82755b-bb4c-4096-8cb7-ab64fee38f86"
+authors = ["tohme <tarektohme1@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
